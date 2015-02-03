@@ -4,7 +4,7 @@ public class HelloWorld {
 	
       public static void main(String args[]) {
     	   //just adding comments
-           System.out.println("In main");
+           System.out.println("In main method");
       }
 
 }
